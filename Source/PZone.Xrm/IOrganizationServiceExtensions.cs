@@ -2,7 +2,7 @@
 using Microsoft.Xrm.Sdk.Query;
 
 
-namespace PZone.Xrm.Sdk
+namespace PZone.Xrm
 {
     /// <summary>
     /// Расширение функционала классов, реализующих интерфейс <see cref="IOrganizationService"/>.

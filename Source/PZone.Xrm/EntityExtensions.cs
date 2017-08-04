@@ -2,7 +2,7 @@
 using Newtonsoft.Json;
 
 
-namespace PZone.Xrm.Sdk
+namespace PZone.Xrm
 {
     /// <summary>
     /// Расширение функционала перечисления <see cref="Entity"/>.

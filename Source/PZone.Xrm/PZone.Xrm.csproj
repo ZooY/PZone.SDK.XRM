@@ -38,10 +38,10 @@
     <AssemblyOriginatorKeyFile>PZone.snk</AssemblyOriginatorKeyFile>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Sdk\EntityExtensions.cs" />
+    <Compile Include="EntityExtensions.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Sdk\IOrganizationServiceExtensions.cs" />
-    <Compile Include="Sdk\ITracingServiceExtensions.cs" />
+    <Compile Include="IOrganizationServiceExtensions.cs" />
+    <Compile Include="ITracingServiceExtensions.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />

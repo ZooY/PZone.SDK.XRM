@@ -3,7 +3,7 @@ using Microsoft.Xrm.Sdk;
 using Newtonsoft.Json;
 
 
-namespace PZone.Xrm.Sdk
+namespace PZone.Xrm
 {
     /// <summary>
     /// Расширение функционала классов, реализующих интерфейс <see cref="ITracingService"/>.
@@ -25,7 +25,7 @@ namespace PZone.Xrm.Sdk
 
 
         /// <summary>
-        /// Запись в трассировку данных об исключении.
+        /// Запись в трассировку данных объекта.
         /// </summary>
         /// <param name="service">Экземпляр сервиса трассеровки.</param>
         /// <param name="obj">Объект для записи в трассировку.</param>

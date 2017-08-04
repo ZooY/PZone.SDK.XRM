@@ -6,7 +6,7 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("PZone.Xrm")]
-[assembly: AssemblyDescription("Common assembly for MS Dynamics development.")]
+[assembly: AssemblyDescription("Common assembly for Microsoft Dynamics development.")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Programming Zone")]
 [assembly: AssemblyProduct("PZone SDK XRM")]
@@ -32,5 +32,5 @@ using System.Runtime.InteropServices;
 // You can specify all the values or you can default the Build and Revision Numbers 
 // by using the '*' as shown below:
 // [assembly: AssemblyVersion("1.0.*")]
-[assembly: AssemblyVersion("8.0.0.0")]
-[assembly: AssemblyFileVersion("8.0.0.0")]
+[assembly: AssemblyVersion("8.0.1.0")]
+[assembly: AssemblyFileVersion("8.0.1.0")]
