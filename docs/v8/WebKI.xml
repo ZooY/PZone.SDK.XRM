@@ -1,34 +1,34 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <HelpKI>
-  <HelpKINode Title="Clone method" Url="html/M_PZone_Xrm_Sdk_EntityExtensions_Clone.htm" />
+  <HelpKINode Title="Clone method" Url="html/M_PZone_Xrm_EntityExtensions_Clone.htm" />
   <HelpKINode Title="EntityExtensions class">
-    <HelpKINode Title="EntityExtensions Class" Url="html/T_PZone_Xrm_Sdk_EntityExtensions.htm" />
-    <HelpKINode Title="about EntityExtensions class" Url="html/T_PZone_Xrm_Sdk_EntityExtensions.htm" />
-    <HelpKINode Title="methods" Url="html/Methods_T_PZone_Xrm_Sdk_EntityExtensions.htm" />
+    <HelpKINode Title="EntityExtensions Class" Url="html/T_PZone_Xrm_EntityExtensions.htm" />
+    <HelpKINode Title="about EntityExtensions class" Url="html/T_PZone_Xrm_EntityExtensions.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_PZone_Xrm_EntityExtensions.htm" />
   </HelpKINode>
-  <HelpKINode Title="EntityExtensions.Clone method" Url="html/M_PZone_Xrm_Sdk_EntityExtensions_Clone.htm" />
-  <HelpKINode Title="EntityExtensions.Extend method" Url="html/M_PZone_Xrm_Sdk_EntityExtensions_Extend.htm" />
-  <HelpKINode Title="Execute(Of TResponse) method" Url="html/M_PZone_Xrm_Sdk_IOrganizationServiceExtensions_Execute__1.htm" />
-  <HelpKINode Title="Execute&lt;TResponse&gt; method" Url="html/M_PZone_Xrm_Sdk_IOrganizationServiceExtensions_Execute__1.htm" />
-  <HelpKINode Title="Extend method" Url="html/M_PZone_Xrm_Sdk_EntityExtensions_Extend.htm" />
+  <HelpKINode Title="EntityExtensions.Clone method" Url="html/M_PZone_Xrm_EntityExtensions_Clone.htm" />
+  <HelpKINode Title="EntityExtensions.Extend method" Url="html/M_PZone_Xrm_EntityExtensions_Extend.htm" />
+  <HelpKINode Title="Execute(Of TResponse) method" Url="html/M_PZone_Xrm_IOrganizationServiceExtensions_Execute__1.htm" />
+  <HelpKINode Title="Execute&lt;TResponse&gt; method" Url="html/M_PZone_Xrm_IOrganizationServiceExtensions_Execute__1.htm" />
+  <HelpKINode Title="Extend method" Url="html/M_PZone_Xrm_EntityExtensions_Extend.htm" />
   <HelpKINode Title="IOrganizationServiceExtensions class">
-    <HelpKINode Title="IOrganizationServiceExtensions Class" Url="html/T_PZone_Xrm_Sdk_IOrganizationServiceExtensions.htm" />
-    <HelpKINode Title="about IOrganizationServiceExtensions class" Url="html/T_PZone_Xrm_Sdk_IOrganizationServiceExtensions.htm" />
-    <HelpKINode Title="methods" Url="html/Methods_T_PZone_Xrm_Sdk_IOrganizationServiceExtensions.htm" />
+    <HelpKINode Title="IOrganizationServiceExtensions Class" Url="html/T_PZone_Xrm_IOrganizationServiceExtensions.htm" />
+    <HelpKINode Title="about IOrganizationServiceExtensions class" Url="html/T_PZone_Xrm_IOrganizationServiceExtensions.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_PZone_Xrm_IOrganizationServiceExtensions.htm" />
   </HelpKINode>
-  <HelpKINode Title="IOrganizationServiceExtensions.Execute(Of TResponse) method" Url="html/M_PZone_Xrm_Sdk_IOrganizationServiceExtensions_Execute__1.htm" />
-  <HelpKINode Title="IOrganizationServiceExtensions.Execute&lt;TResponse&gt; method" Url="html/M_PZone_Xrm_Sdk_IOrganizationServiceExtensions_Execute__1.htm" />
-  <HelpKINode Title="IOrganizationServiceExtensions.RetrieveMultiple method" Url="html/M_PZone_Xrm_Sdk_IOrganizationServiceExtensions_RetrieveMultiple.htm" />
+  <HelpKINode Title="IOrganizationServiceExtensions.Execute(Of TResponse) method" Url="html/M_PZone_Xrm_IOrganizationServiceExtensions_Execute__1.htm" />
+  <HelpKINode Title="IOrganizationServiceExtensions.Execute&lt;TResponse&gt; method" Url="html/M_PZone_Xrm_IOrganizationServiceExtensions_Execute__1.htm" />
+  <HelpKINode Title="IOrganizationServiceExtensions.RetrieveMultiple method" Url="html/M_PZone_Xrm_IOrganizationServiceExtensions_RetrieveMultiple.htm" />
   <HelpKINode Title="ITracingServiceExtensions class">
-    <HelpKINode Title="ITracingServiceExtensions Class" Url="html/T_PZone_Xrm_Sdk_ITracingServiceExtensions.htm" />
-    <HelpKINode Title="about ITracingServiceExtensions class" Url="html/T_PZone_Xrm_Sdk_ITracingServiceExtensions.htm" />
-    <HelpKINode Title="methods" Url="html/Methods_T_PZone_Xrm_Sdk_ITracingServiceExtensions.htm" />
+    <HelpKINode Title="ITracingServiceExtensions Class" Url="html/T_PZone_Xrm_ITracingServiceExtensions.htm" />
+    <HelpKINode Title="about ITracingServiceExtensions class" Url="html/T_PZone_Xrm_ITracingServiceExtensions.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_PZone_Xrm_ITracingServiceExtensions.htm" />
   </HelpKINode>
-  <HelpKINode Title="ITracingServiceExtensions.Trace method" Url="html/Overload_PZone_Xrm_Sdk_ITracingServiceExtensions_Trace.htm" />
-  <HelpKINode Title="PZone.Xrm.Sdk namespace" Url="html/N_PZone_Xrm_Sdk.htm" />
-  <HelpKINode Title="PZone.Xrm.Sdk.EntityExtensions class" Url="html/T_PZone_Xrm_Sdk_EntityExtensions.htm" />
-  <HelpKINode Title="PZone.Xrm.Sdk.IOrganizationServiceExtensions class" Url="html/T_PZone_Xrm_Sdk_IOrganizationServiceExtensions.htm" />
-  <HelpKINode Title="PZone.Xrm.Sdk.ITracingServiceExtensions class" Url="html/T_PZone_Xrm_Sdk_ITracingServiceExtensions.htm" />
-  <HelpKINode Title="RetrieveMultiple method" Url="html/M_PZone_Xrm_Sdk_IOrganizationServiceExtensions_RetrieveMultiple.htm" />
-  <HelpKINode Title="Trace method" Url="html/Overload_PZone_Xrm_Sdk_ITracingServiceExtensions_Trace.htm" />
+  <HelpKINode Title="ITracingServiceExtensions.Trace method" Url="html/Overload_PZone_Xrm_ITracingServiceExtensions_Trace.htm" />
+  <HelpKINode Title="PZone.Xrm namespace" Url="html/N_PZone_Xrm.htm" />
+  <HelpKINode Title="PZone.Xrm.EntityExtensions class" Url="html/T_PZone_Xrm_EntityExtensions.htm" />
+  <HelpKINode Title="PZone.Xrm.IOrganizationServiceExtensions class" Url="html/T_PZone_Xrm_IOrganizationServiceExtensions.htm" />
+  <HelpKINode Title="PZone.Xrm.ITracingServiceExtensions class" Url="html/T_PZone_Xrm_ITracingServiceExtensions.htm" />
+  <HelpKINode Title="RetrieveMultiple method" Url="html/M_PZone_Xrm_IOrganizationServiceExtensions_RetrieveMultiple.htm" />
+  <HelpKINode Title="Trace method" Url="html/Overload_PZone_Xrm_ITracingServiceExtensions_Trace.htm" />
 </HelpKI>
