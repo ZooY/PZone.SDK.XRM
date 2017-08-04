@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Id="3eb5b62d-c6f6-499a-b3f7-d2f8b4bde654" Title="Namespaces" Url="html/R_Project_Documentation.htm">
+    <HelpTOCNode Id="7ec3b487-77ac-461b-8851-f4c9d644f86d" Title="PZone.Xrm.Sdk" Url="html/N_PZone_Xrm_Sdk.htm">
+      <HelpTOCNode Id="48392c71-88ef-498d-90a8-d39f6ccc6eb8" Title="EntityExtensions Class" Url="html/T_PZone_Xrm_Sdk_EntityExtensions.htm">
+        <HelpTOCNode Id="fe7ff16a-43a9-46aa-9edd-db8a04a0d6bc" Title="EntityExtensions Methods" Url="html/Methods_T_PZone_Xrm_Sdk_EntityExtensions.htm">
+          <HelpTOCNode Title="Clone Method " Url="html/M_PZone_Xrm_Sdk_EntityExtensions_Clone.htm" />
+          <HelpTOCNode Title="Extend Method " Url="html/M_PZone_Xrm_Sdk_EntityExtensions_Extend.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="aba61f52-2b1d-4d6f-801e-3648e63307ed" Title="IOrganizationServiceExtensions Class" Url="html/T_PZone_Xrm_Sdk_IOrganizationServiceExtensions.htm">
+        <HelpTOCNode Id="c8b7df94-6680-4665-aa43-93839ed34bb9" Title="IOrganizationServiceExtensions Methods" Url="html/Methods_T_PZone_Xrm_Sdk_IOrganizationServiceExtensions.htm">
+          <HelpTOCNode Title="Execute(TResponse) Method " Url="html/M_PZone_Xrm_Sdk_IOrganizationServiceExtensions_Execute__1.htm" />
+          <HelpTOCNode Title="RetrieveMultiple Method " Url="html/M_PZone_Xrm_Sdk_IOrganizationServiceExtensions_RetrieveMultiple.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="d234c11a-aa74-4c60-adda-b255d00b2985" Title="ITracingServiceExtensions Class" Url="html/T_PZone_Xrm_Sdk_ITracingServiceExtensions.htm">
+        <HelpTOCNode Id="b26d2289-1df3-4207-9c1e-233a849d88ce" Title="ITracingServiceExtensions Methods" Url="html/Methods_T_PZone_Xrm_Sdk_ITracingServiceExtensions.htm">
+          <HelpTOCNode Id="6592d8e1-d107-47e0-9ed4-2a906088629c" Title="Trace Method " Url="html/Overload_PZone_Xrm_Sdk_ITracingServiceExtensions_Trace.htm">
+            <HelpTOCNode Title="Trace Method (ITracingService, Exception)" Url="html/M_PZone_Xrm_Sdk_ITracingServiceExtensions_Trace.htm" />
+            <HelpTOCNode Title="Trace Method (ITracingService, Object)" Url="html/M_PZone_Xrm_Sdk_ITracingServiceExtensions_Trace_1.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+</HelpTOC>
