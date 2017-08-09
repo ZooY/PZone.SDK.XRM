@@ -38,8 +38,8 @@
     <ContentPlacement>AboveNamespaces</ContentPlacement>
     <WarnOnMissingSourceContext>False</WarnOnMissingSourceContext>
     <DocumentationSources>
-      <DocumentationSource sourceFile="Source\PZone.Xrm\bin\Release\PZone.Xrm.dll" />
-      <DocumentationSource sourceFile="Source\PZone.Xrm\bin\Release\PZone.Xrm.xml" />
+      <DocumentationSource sourceFile="Source\PZone.Xrm\bin\Release\PZone.SDK.Xrm.dll" />
+      <DocumentationSource sourceFile="Source\PZone.Xrm\bin\Release\PZone.SDK.Xrm.xml" />
     </DocumentationSources>
     <ComponentConfigurations>
       <ComponentConfig id="Code Block Component" enabled="True" xmlns="">
