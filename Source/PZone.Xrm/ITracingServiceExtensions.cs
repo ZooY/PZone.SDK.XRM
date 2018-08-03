@@ -31,9 +31,12 @@ namespace PZone.Xrm
         /// <param name="obj">Объект для записи в трассировку.</param>
         public static void Trace(this ITracingService service, object obj)
         {
-            service.Trace(JsonConvert.SerializeObject(obj, Formatting.Indented, new JsonSerializerSettings
+            service.Trace(JsonConvert.SerializeObject(obj, new JsonSerializerSettings
             {
-                ReferenceLoopHandling = ReferenceLoopHandling.Ignore
+                ReferenceLoopHandling = ReferenceLoopHandling.Ignore,
+                DateFormatHandling = DateFormatHandling.IsoDateFormat,
+                NullValueHandling = NullValueHandling.Ignore,
+                Formatting = Formatting.Indented
             }));
         }
     }
