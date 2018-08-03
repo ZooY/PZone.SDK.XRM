@@ -5,7 +5,7 @@ using Newtonsoft.Json;
 namespace PZone.Xrm
 {
     /// <summary>
-    /// Расширение функционала перечисления <see cref="Entity"/>.
+    /// Расширение функционала класса <see cref="Entity"/>.
     /// </summary>
     // ReSharper disable once CheckNamespace
     public static class EntityExtensions

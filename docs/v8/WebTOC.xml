@@ -1,229 +1,26 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <HelpTOC>
 
-  <HelpTOCNode Id="b29ca156-1459-4167-b7da-aec6324ab7c3" Title="Namespaces" Url="html/R_Project_Documentation.htm">
-    <HelpTOCNode Id="4fc7cb8f-8e50-4da5-a5f2-1c635df4452c" Title="PZone.Xrm" Url="html/N_PZone_Xrm.htm">
-      <HelpTOCNode Id="696a88bb-d145-48ac-b681-d6a3f8b4a24e" Title="EntityExtensions Class" Url="html/T_PZone_Xrm_EntityExtensions.htm">
-        <HelpTOCNode Id="80b83e28-b649-46aa-84ff-a93c51442e43" Title="EntityExtensions Methods" Url="html/Methods_T_PZone_Xrm_EntityExtensions.htm">
+  <HelpTOCNode Id="e3ebe9a8-a5dc-43c2-903b-60d8835a5dd5" Title="Namespaces" Url="html/R_Project_Documentation.htm">
+    <HelpTOCNode Id="39e518e8-631b-4eb0-9050-8abe319a886e" Title="PZone.Xrm" Url="html/N_PZone_Xrm.htm">
+      <HelpTOCNode Id="5dab15c0-b63d-4ba0-a900-c2d08d897762" Title="EntityExtensions Class" Url="html/T_PZone_Xrm_EntityExtensions.htm">
+        <HelpTOCNode Id="4aa78f36-d8cb-4dcf-935f-624826705ebc" Title="EntityExtensions Methods" Url="html/Methods_T_PZone_Xrm_EntityExtensions.htm">
           <HelpTOCNode Title="Clone Method " Url="html/M_PZone_Xrm_EntityExtensions_Clone.htm" />
           <HelpTOCNode Title="Extend Method " Url="html/M_PZone_Xrm_EntityExtensions_Extend.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="29bd6ce4-9682-4e7f-888d-c78933653273" Title="IOrganizationServiceExtensions Class" Url="html/T_PZone_Xrm_IOrganizationServiceExtensions.htm">
-        <HelpTOCNode Id="04127a51-0aeb-4a6c-a951-78c8c52c31fa" Title="IOrganizationServiceExtensions Methods" Url="html/Methods_T_PZone_Xrm_IOrganizationServiceExtensions.htm">
+      <HelpTOCNode Id="54e72ab0-2b2a-4192-92ba-ca21f170896c" Title="IOrganizationServiceExtensions Class" Url="html/T_PZone_Xrm_IOrganizationServiceExtensions.htm">
+        <HelpTOCNode Id="fa123d2e-8c4d-4b03-8de6-5bcc1f3eed5f" Title="IOrganizationServiceExtensions Methods" Url="html/Methods_T_PZone_Xrm_IOrganizationServiceExtensions.htm">
           <HelpTOCNode Title="Execute(TResponse) Method " Url="html/M_PZone_Xrm_IOrganizationServiceExtensions_Execute__1.htm" />
           <HelpTOCNode Title="RetrieveMultiple Method " Url="html/M_PZone_Xrm_IOrganizationServiceExtensions_RetrieveMultiple.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="dac05507-4ae5-4d62-8a43-cd4c744e939c" Title="ITracingServiceExtensions Class" Url="html/T_PZone_Xrm_ITracingServiceExtensions.htm">
-        <HelpTOCNode Id="ee56c55a-464a-489f-9d16-48371ed8131f" Title="ITracingServiceExtensions Methods" Url="html/Methods_T_PZone_Xrm_ITracingServiceExtensions.htm">
-          <HelpTOCNode Id="7c441496-e971-4694-bc0c-835c0b6aff99" Title="Trace Method " Url="html/Overload_PZone_Xrm_ITracingServiceExtensions_Trace.htm">
+      <HelpTOCNode Id="0dd2a7ef-214a-4277-aa30-0c963618cf33" Title="ITracingServiceExtensions Class" Url="html/T_PZone_Xrm_ITracingServiceExtensions.htm">
+        <HelpTOCNode Id="a9de82a4-b33b-422c-b42c-7a197c84e71a" Title="ITracingServiceExtensions Methods" Url="html/Methods_T_PZone_Xrm_ITracingServiceExtensions.htm">
+          <HelpTOCNode Id="00acaeab-166c-42dd-8456-6a0ea9854b8e" Title="Trace Method " Url="html/Overload_PZone_Xrm_ITracingServiceExtensions_Trace.htm">
             <HelpTOCNode Title="Trace Method (ITracingService, Exception)" Url="html/M_PZone_Xrm_ITracingServiceExtensions_Trace.htm" />
             <HelpTOCNode Title="Trace Method (ITracingService, Object)" Url="html/M_PZone_Xrm_ITracingServiceExtensions_Trace_1.htm" />
           </HelpTOCNode>
-        </HelpTOCNode>
-      </HelpTOCNode>
-      <HelpTOCNode Id="2e9c704e-3dc2-4980-a62e-f3331a52ca0f" Title="Metadata Class" Url="html/T_PZone_Xrm_Metadata.htm">
-        <HelpTOCNode Title="Metadata Constructor " Url="html/M_PZone_Xrm_Metadata__ctor.htm" />
-        <HelpTOCNode Title="Metadata Methods" Url="html/Methods_T_PZone_Xrm_Metadata.htm" />
-      </HelpTOCNode>
-      <HelpTOCNode Id="ae5305b9-120c-4a09-9462-598e5fbae056" Title="Metadata.Account Class" Url="html/T_PZone_Xrm_Metadata_Account.htm">
-        <HelpTOCNode Title="Metadata.Account Constructor " Url="html/M_PZone_Xrm_Metadata_Account__ctor.htm" />
-        <HelpTOCNode Title="Account Methods" Url="html/Methods_T_PZone_Xrm_Metadata_Account.htm" />
-        <HelpTOCNode Id="ccef6ba3-806e-4ca4-bc74-3403ed821c16" Title="Account Fields" Url="html/Fields_T_PZone_Xrm_Metadata_Account.htm">
-          <HelpTOCNode Title="LogicalName Field" Url="html/F_PZone_Xrm_Metadata_Account_LogicalName.htm" />
-        </HelpTOCNode>
-      </HelpTOCNode>
-      <HelpTOCNode Id="0a0a48bb-17b1-4672-94a6-3adc3dade87a" Title="Metadata.Annotation Class" Url="html/T_PZone_Xrm_Metadata_Annotation.htm">
-        <HelpTOCNode Title="Metadata.Annotation Constructor " Url="html/M_PZone_Xrm_Metadata_Annotation__ctor.htm" />
-        <HelpTOCNode Title="Annotation Methods" Url="html/Methods_T_PZone_Xrm_Metadata_Annotation.htm" />
-        <HelpTOCNode Id="9d61ee71-7c7b-4407-96ac-22a1512af343" Title="Annotation Fields" Url="html/Fields_T_PZone_Xrm_Metadata_Annotation.htm">
-          <HelpTOCNode Title="DocumentBody Field" Url="html/F_PZone_Xrm_Metadata_Annotation_DocumentBody.htm" />
-          <HelpTOCNode Title="FileName Field" Url="html/F_PZone_Xrm_Metadata_Annotation_FileName.htm" />
-          <HelpTOCNode Title="LogicalName Field" Url="html/F_PZone_Xrm_Metadata_Annotation_LogicalName.htm" />
-          <HelpTOCNode Title="MimeType Field" Url="html/F_PZone_Xrm_Metadata_Annotation_MimeType.htm" />
-          <HelpTOCNode Title="ObjectId Field" Url="html/F_PZone_Xrm_Metadata_Annotation_ObjectId.htm" />
-        </HelpTOCNode>
-      </HelpTOCNode>
-      <HelpTOCNode Id="760babe1-7762-456d-ab24-3a1f67a556a7" Title="Metadata.BusinessUnit Class" Url="html/T_PZone_Xrm_Metadata_BusinessUnit.htm">
-        <HelpTOCNode Title="Metadata.BusinessUnit Constructor " Url="html/M_PZone_Xrm_Metadata_BusinessUnit__ctor.htm" />
-        <HelpTOCNode Title="BusinessUnit Methods" Url="html/Methods_T_PZone_Xrm_Metadata_BusinessUnit.htm" />
-        <HelpTOCNode Id="490b2972-9f20-4318-955f-91d6d183164c" Title="BusinessUnit Fields" Url="html/Fields_T_PZone_Xrm_Metadata_BusinessUnit.htm">
-          <HelpTOCNode Title="LogicalName Field" Url="html/F_PZone_Xrm_Metadata_BusinessUnit_LogicalName.htm" />
-        </HelpTOCNode>
-      </HelpTOCNode>
-      <HelpTOCNode Id="1e4e6dc6-3f58-4a9e-84b9-a53ffe6fbe68" Title="Metadata.Contact Class" Url="html/T_PZone_Xrm_Metadata_Contact.htm">
-        <HelpTOCNode Title="Metadata.Contact Constructor " Url="html/M_PZone_Xrm_Metadata_Contact__ctor.htm" />
-        <HelpTOCNode Title="Contact Methods" Url="html/Methods_T_PZone_Xrm_Metadata_Contact.htm" />
-        <HelpTOCNode Id="bbf6f575-5408-41a7-a8de-3b88ec544bfa" Title="Contact Fields" Url="html/Fields_T_PZone_Xrm_Metadata_Contact.htm">
-          <HelpTOCNode Title="LogicalName Field" Url="html/F_PZone_Xrm_Metadata_Contact_LogicalName.htm" />
-        </HelpTOCNode>
-      </HelpTOCNode>
-      <HelpTOCNode Id="2c2e2a41-9493-428f-b7b1-7617f7664922" Title="Metadata.Currency Class" Url="html/T_PZone_Xrm_Metadata_Currency.htm">
-        <HelpTOCNode Title="Metadata.Currency Constructor " Url="html/M_PZone_Xrm_Metadata_Currency__ctor.htm" />
-        <HelpTOCNode Title="Currency Methods" Url="html/Methods_T_PZone_Xrm_Metadata_Currency.htm" />
-        <HelpTOCNode Id="8adfcc2f-64c0-4c77-a90e-882295cdecf1" Title="Currency Fields" Url="html/Fields_T_PZone_Xrm_Metadata_Currency.htm">
-          <HelpTOCNode Title="LogicalName Field" Url="html/F_PZone_Xrm_Metadata_Currency_LogicalName.htm" />
-        </HelpTOCNode>
-      </HelpTOCNode>
-      <HelpTOCNode Id="1fba71b6-a419-4be0-a24a-247b74dc95dd" Title="Metadata.Email Class" Url="html/T_PZone_Xrm_Metadata_Email.htm">
-        <HelpTOCNode Title="Metadata.Email Constructor " Url="html/M_PZone_Xrm_Metadata_Email__ctor.htm" />
-        <HelpTOCNode Title="Email Methods" Url="html/Methods_T_PZone_Xrm_Metadata_Email.htm" />
-        <HelpTOCNode Id="88512088-d7b2-4aa3-991a-254c128bbe72" Title="Email Fields" Url="html/Fields_T_PZone_Xrm_Metadata_Email.htm">
-          <HelpTOCNode Title="LogicalName Field" Url="html/F_PZone_Xrm_Metadata_Email_LogicalName.htm" />
-        </HelpTOCNode>
-      </HelpTOCNode>
-      <HelpTOCNode Id="2b3e9e71-94fa-4516-9a99-4e832c674196" Title="Metadata.Invoice Class" Url="html/T_PZone_Xrm_Metadata_Invoice.htm">
-        <HelpTOCNode Title="Metadata.Invoice Constructor " Url="html/M_PZone_Xrm_Metadata_Invoice__ctor.htm" />
-        <HelpTOCNode Title="Invoice Methods" Url="html/Methods_T_PZone_Xrm_Metadata_Invoice.htm" />
-        <HelpTOCNode Id="cdb09ca0-fcad-407b-a704-c799d76bb5ea" Title="Invoice Fields" Url="html/Fields_T_PZone_Xrm_Metadata_Invoice.htm">
-          <HelpTOCNode Title="LogicalName Field" Url="html/F_PZone_Xrm_Metadata_Invoice_LogicalName.htm" />
-        </HelpTOCNode>
-      </HelpTOCNode>
-      <HelpTOCNode Id="09f370fb-3120-4d79-8ed3-fb5c42887f12" Title="Metadata.InvoiceProduct Class" Url="html/T_PZone_Xrm_Metadata_InvoiceProduct.htm">
-        <HelpTOCNode Title="Metadata.InvoiceProduct Constructor " Url="html/M_PZone_Xrm_Metadata_InvoiceProduct__ctor.htm" />
-        <HelpTOCNode Title="InvoiceProduct Methods" Url="html/Methods_T_PZone_Xrm_Metadata_InvoiceProduct.htm" />
-        <HelpTOCNode Id="561c44df-1d96-4f7d-a5d3-80717c6de2de" Title="InvoiceProduct Fields" Url="html/Fields_T_PZone_Xrm_Metadata_InvoiceProduct.htm">
-          <HelpTOCNode Title="LogicalName Field" Url="html/F_PZone_Xrm_Metadata_InvoiceProduct_LogicalName.htm" />
-        </HelpTOCNode>
-      </HelpTOCNode>
-      <HelpTOCNode Id="cecc44a3-7177-4be5-b35e-d5521a3b3988" Title="Metadata.Lead Class" Url="html/T_PZone_Xrm_Metadata_Lead.htm">
-        <HelpTOCNode Title="Metadata.Lead Constructor " Url="html/M_PZone_Xrm_Metadata_Lead__ctor.htm" />
-        <HelpTOCNode Title="Lead Methods" Url="html/Methods_T_PZone_Xrm_Metadata_Lead.htm" />
-        <HelpTOCNode Id="e14b0741-b7ef-4f9c-8144-d7fc8467419c" Title="Lead Fields" Url="html/Fields_T_PZone_Xrm_Metadata_Lead.htm">
-          <HelpTOCNode Title="LogicalName Field" Url="html/F_PZone_Xrm_Metadata_Lead_LogicalName.htm" />
-        </HelpTOCNode>
-      </HelpTOCNode>
-      <HelpTOCNode Id="b1dfb610-7e52-435d-9bd4-c399cf059d35" Title="Metadata.MarketingList Class" Url="html/T_PZone_Xrm_Metadata_MarketingList.htm">
-        <HelpTOCNode Title="Metadata.MarketingList Constructor " Url="html/M_PZone_Xrm_Metadata_MarketingList__ctor.htm" />
-        <HelpTOCNode Title="MarketingList Methods" Url="html/Methods_T_PZone_Xrm_Metadata_MarketingList.htm" />
-        <HelpTOCNode Id="6e9f01ad-4f65-46bc-94b4-fab26db2e6cb" Title="MarketingList Fields" Url="html/Fields_T_PZone_Xrm_Metadata_MarketingList.htm">
-          <HelpTOCNode Title="LogicalName Field" Url="html/F_PZone_Xrm_Metadata_MarketingList_LogicalName.htm" />
-        </HelpTOCNode>
-      </HelpTOCNode>
-      <HelpTOCNode Id="7dc8c677-f0b4-493c-8ced-58cae08f3b74" Title="Metadata.Opportunity Class" Url="html/T_PZone_Xrm_Metadata_Opportunity.htm">
-        <HelpTOCNode Title="Metadata.Opportunity Constructor " Url="html/M_PZone_Xrm_Metadata_Opportunity__ctor.htm" />
-        <HelpTOCNode Title="Opportunity Methods" Url="html/Methods_T_PZone_Xrm_Metadata_Opportunity.htm" />
-        <HelpTOCNode Id="bdf2ce16-f11f-4c8e-87bc-fc255778ff6f" Title="Opportunity Fields" Url="html/Fields_T_PZone_Xrm_Metadata_Opportunity.htm">
-          <HelpTOCNode Title="LogicalName Field" Url="html/F_PZone_Xrm_Metadata_Opportunity_LogicalName.htm" />
-        </HelpTOCNode>
-      </HelpTOCNode>
-      <HelpTOCNode Id="9dc6f786-b9c1-4f0f-a028-35edd8e8c9fd" Title="Metadata.OpportunityProduct Class" Url="html/T_PZone_Xrm_Metadata_OpportunityProduct.htm">
-        <HelpTOCNode Title="Metadata.OpportunityProduct Constructor " Url="html/M_PZone_Xrm_Metadata_OpportunityProduct__ctor.htm" />
-        <HelpTOCNode Title="OpportunityProduct Methods" Url="html/Methods_T_PZone_Xrm_Metadata_OpportunityProduct.htm" />
-        <HelpTOCNode Id="e2621361-e1f1-43b2-9ccc-8b590a9531c1" Title="OpportunityProduct Fields" Url="html/Fields_T_PZone_Xrm_Metadata_OpportunityProduct.htm">
-          <HelpTOCNode Title="LogicalName Field" Url="html/F_PZone_Xrm_Metadata_OpportunityProduct_LogicalName.htm" />
-        </HelpTOCNode>
-      </HelpTOCNode>
-      <HelpTOCNode Id="f2ccc341-7fa8-4bf8-a90f-a74fc12aae4a" Title="Metadata.Order Class" Url="html/T_PZone_Xrm_Metadata_Order.htm">
-        <HelpTOCNode Title="Metadata.Order Constructor " Url="html/M_PZone_Xrm_Metadata_Order__ctor.htm" />
-        <HelpTOCNode Title="Order Methods" Url="html/Methods_T_PZone_Xrm_Metadata_Order.htm" />
-        <HelpTOCNode Id="7d2cc8e2-a608-45af-88cb-20d92a4eec05" Title="Order Fields" Url="html/Fields_T_PZone_Xrm_Metadata_Order.htm">
-          <HelpTOCNode Title="LogicalName Field" Url="html/F_PZone_Xrm_Metadata_Order_LogicalName.htm" />
-        </HelpTOCNode>
-      </HelpTOCNode>
-      <HelpTOCNode Id="8f0d43bf-8e40-401f-aa93-53c4a3ca7753" Title="Metadata.OrderProduct Class" Url="html/T_PZone_Xrm_Metadata_OrderProduct.htm">
-        <HelpTOCNode Title="Metadata.OrderProduct Constructor " Url="html/M_PZone_Xrm_Metadata_OrderProduct__ctor.htm" />
-        <HelpTOCNode Title="OrderProduct Methods" Url="html/Methods_T_PZone_Xrm_Metadata_OrderProduct.htm" />
-        <HelpTOCNode Id="e7806263-ac56-4fe1-aa65-c86bb2d1df5d" Title="OrderProduct Fields" Url="html/Fields_T_PZone_Xrm_Metadata_OrderProduct.htm">
-          <HelpTOCNode Title="LogicalName Field" Url="html/F_PZone_Xrm_Metadata_OrderProduct_LogicalName.htm" />
-        </HelpTOCNode>
-      </HelpTOCNode>
-      <HelpTOCNode Id="4decf9f7-3d09-43b4-9e29-01f7120fcf4c" Title="Metadata.PhoneCall Class" Url="html/T_PZone_Xrm_Metadata_PhoneCall.htm">
-        <HelpTOCNode Title="Metadata.PhoneCall Constructor " Url="html/M_PZone_Xrm_Metadata_PhoneCall__ctor.htm" />
-        <HelpTOCNode Title="PhoneCall Methods" Url="html/Methods_T_PZone_Xrm_Metadata_PhoneCall.htm" />
-        <HelpTOCNode Id="8acd85d0-f26d-411a-b8e6-84ad6b1dc081" Title="PhoneCall Fields" Url="html/Fields_T_PZone_Xrm_Metadata_PhoneCall.htm">
-          <HelpTOCNode Title="LogicalName Field" Url="html/F_PZone_Xrm_Metadata_PhoneCall_LogicalName.htm" />
-        </HelpTOCNode>
-      </HelpTOCNode>
-      <HelpTOCNode Id="f2699f21-cad2-4250-b187-5237dd9a0f9d" Title="Metadata.PriceList Class" Url="html/T_PZone_Xrm_Metadata_PriceList.htm">
-        <HelpTOCNode Title="Metadata.PriceList Constructor " Url="html/M_PZone_Xrm_Metadata_PriceList__ctor.htm" />
-        <HelpTOCNode Title="PriceList Methods" Url="html/Methods_T_PZone_Xrm_Metadata_PriceList.htm" />
-        <HelpTOCNode Id="c2a478f2-5375-4bba-89dc-cc5e6a6ef537" Title="PriceList Fields" Url="html/Fields_T_PZone_Xrm_Metadata_PriceList.htm">
-          <HelpTOCNode Title="LogicalName Field" Url="html/F_PZone_Xrm_Metadata_PriceList_LogicalName.htm" />
-        </HelpTOCNode>
-      </HelpTOCNode>
-      <HelpTOCNode Id="1c5588e1-45cf-466c-bde4-b372f67abff2" Title="Metadata.PriceListProduct Class" Url="html/T_PZone_Xrm_Metadata_PriceListProduct.htm">
-        <HelpTOCNode Title="Metadata.PriceListProduct Constructor " Url="html/M_PZone_Xrm_Metadata_PriceListProduct__ctor.htm" />
-        <HelpTOCNode Title="PriceListProduct Methods" Url="html/Methods_T_PZone_Xrm_Metadata_PriceListProduct.htm" />
-        <HelpTOCNode Id="918b8faf-96f0-4f97-8939-a9aeef8ff8b1" Title="PriceListProduct Fields" Url="html/Fields_T_PZone_Xrm_Metadata_PriceListProduct.htm">
-          <HelpTOCNode Title="LogicalName Field" Url="html/F_PZone_Xrm_Metadata_PriceListProduct_LogicalName.htm" />
-        </HelpTOCNode>
-      </HelpTOCNode>
-      <HelpTOCNode Id="a8d39208-9d4d-47e1-991f-613f097e4f1e" Title="Metadata.Product Class" Url="html/T_PZone_Xrm_Metadata_Product.htm">
-        <HelpTOCNode Title="Metadata.Product Constructor " Url="html/M_PZone_Xrm_Metadata_Product__ctor.htm" />
-        <HelpTOCNode Title="Product Methods" Url="html/Methods_T_PZone_Xrm_Metadata_Product.htm" />
-        <HelpTOCNode Id="d110a6d8-6607-4c90-acc0-c7e16e488fb9" Title="Product Fields" Url="html/Fields_T_PZone_Xrm_Metadata_Product.htm">
-          <HelpTOCNode Title="LogicalName Field" Url="html/F_PZone_Xrm_Metadata_Product_LogicalName.htm" />
-        </HelpTOCNode>
-      </HelpTOCNode>
-      <HelpTOCNode Id="f6502005-6000-4cf0-b078-5ea8bb91d196" Title="Metadata.Queue Class" Url="html/T_PZone_Xrm_Metadata_Queue.htm">
-        <HelpTOCNode Title="Metadata.Queue Constructor " Url="html/M_PZone_Xrm_Metadata_Queue__ctor.htm" />
-        <HelpTOCNode Title="Queue Methods" Url="html/Methods_T_PZone_Xrm_Metadata_Queue.htm" />
-        <HelpTOCNode Id="e243859e-77c9-4d2e-81a7-2bf917cda0fe" Title="Queue Fields" Url="html/Fields_T_PZone_Xrm_Metadata_Queue.htm">
-          <HelpTOCNode Title="LogicalName Field" Url="html/F_PZone_Xrm_Metadata_Queue_LogicalName.htm" />
-        </HelpTOCNode>
-      </HelpTOCNode>
-      <HelpTOCNode Id="d091faf7-ee54-41d9-9704-95e06abe95a9" Title="Metadata.QueueItem Class" Url="html/T_PZone_Xrm_Metadata_QueueItem.htm">
-        <HelpTOCNode Title="Metadata.QueueItem Constructor " Url="html/M_PZone_Xrm_Metadata_QueueItem__ctor.htm" />
-        <HelpTOCNode Title="QueueItem Methods" Url="html/Methods_T_PZone_Xrm_Metadata_QueueItem.htm" />
-        <HelpTOCNode Id="d6330f92-f4e5-4e22-a82d-28e1a615c640" Title="QueueItem Fields" Url="html/Fields_T_PZone_Xrm_Metadata_QueueItem.htm">
-          <HelpTOCNode Title="LogicalName Field" Url="html/F_PZone_Xrm_Metadata_QueueItem_LogicalName.htm" />
-        </HelpTOCNode>
-      </HelpTOCNode>
-      <HelpTOCNode Id="e439a216-acdb-4960-851c-325dc526dca1" Title="Metadata.Quote Class" Url="html/T_PZone_Xrm_Metadata_Quote.htm">
-        <HelpTOCNode Title="Metadata.Quote Constructor " Url="html/M_PZone_Xrm_Metadata_Quote__ctor.htm" />
-        <HelpTOCNode Title="Quote Methods" Url="html/Methods_T_PZone_Xrm_Metadata_Quote.htm" />
-        <HelpTOCNode Id="a41e7fcb-b055-4e6b-804b-4a84997390dd" Title="Quote Fields" Url="html/Fields_T_PZone_Xrm_Metadata_Quote.htm">
-          <HelpTOCNode Title="LogicalName Field" Url="html/F_PZone_Xrm_Metadata_Quote_LogicalName.htm" />
-        </HelpTOCNode>
-      </HelpTOCNode>
-      <HelpTOCNode Id="7990e51b-814f-4ba2-9e20-d5a0307a310b" Title="Metadata.QuoteProduct Class" Url="html/T_PZone_Xrm_Metadata_QuoteProduct.htm">
-        <HelpTOCNode Title="Metadata.QuoteProduct Constructor " Url="html/M_PZone_Xrm_Metadata_QuoteProduct__ctor.htm" />
-        <HelpTOCNode Title="QuoteProduct Methods" Url="html/Methods_T_PZone_Xrm_Metadata_QuoteProduct.htm" />
-        <HelpTOCNode Id="321860b6-a963-4f33-be53-c68bad9fe321" Title="QuoteProduct Fields" Url="html/Fields_T_PZone_Xrm_Metadata_QuoteProduct.htm">
-          <HelpTOCNode Title="LogicalName Field" Url="html/F_PZone_Xrm_Metadata_QuoteProduct_LogicalName.htm" />
-        </HelpTOCNode>
-      </HelpTOCNode>
-      <HelpTOCNode Id="055fc84e-5005-4683-830b-2aed4e75083d" Title="Metadata.Team Class" Url="html/T_PZone_Xrm_Metadata_Team.htm">
-        <HelpTOCNode Title="Metadata.Team Constructor " Url="html/M_PZone_Xrm_Metadata_Team__ctor.htm" />
-        <HelpTOCNode Title="Team Methods" Url="html/Methods_T_PZone_Xrm_Metadata_Team.htm" />
-        <HelpTOCNode Id="b4775665-66e8-404d-a9f2-a87319c2de40" Title="Team Fields" Url="html/Fields_T_PZone_Xrm_Metadata_Team.htm">
-          <HelpTOCNode Title="LogicalName Field" Url="html/F_PZone_Xrm_Metadata_Team_LogicalName.htm" />
-        </HelpTOCNode>
-      </HelpTOCNode>
-      <HelpTOCNode Id="b23ff435-c413-464f-a1e7-574d75c9e738" Title="Metadata.Unit Class" Url="html/T_PZone_Xrm_Metadata_Unit.htm">
-        <HelpTOCNode Title="Metadata.Unit Constructor " Url="html/M_PZone_Xrm_Metadata_Unit__ctor.htm" />
-        <HelpTOCNode Title="Unit Methods" Url="html/Methods_T_PZone_Xrm_Metadata_Unit.htm" />
-        <HelpTOCNode Id="4e9caa63-993b-455e-b24d-9ef7206fd663" Title="Unit Fields" Url="html/Fields_T_PZone_Xrm_Metadata_Unit.htm">
-          <HelpTOCNode Title="LogicalName Field" Url="html/F_PZone_Xrm_Metadata_Unit_LogicalName.htm" />
-        </HelpTOCNode>
-      </HelpTOCNode>
-      <HelpTOCNode Id="cf62c0d5-ca6f-4f13-b6f0-b17c8bffc445" Title="Metadata.User Class" Url="html/T_PZone_Xrm_Metadata_User.htm">
-        <HelpTOCNode Title="Metadata.User Constructor " Url="html/M_PZone_Xrm_Metadata_User__ctor.htm" />
-        <HelpTOCNode Title="User Methods" Url="html/Methods_T_PZone_Xrm_Metadata_User.htm" />
-        <HelpTOCNode Id="9cc4941e-a9eb-4d29-a5be-a3e57bcc6355" Title="User Fields" Url="html/Fields_T_PZone_Xrm_Metadata_User.htm">
-          <HelpTOCNode Title="InternalEmail Field" Url="html/F_PZone_Xrm_Metadata_User_InternalEmail.htm" />
-          <HelpTOCNode Title="LogicalName Field" Url="html/F_PZone_Xrm_Metadata_User_LogicalName.htm" />
-          <HelpTOCNode Title="Phone Field" Url="html/F_PZone_Xrm_Metadata_User_Phone.htm" />
-        </HelpTOCNode>
-      </HelpTOCNode>
-      <HelpTOCNode Id="da05d30f-cf0d-43f3-a4f2-3e35e48cf817" Title="Metadata.WebResource Class" Url="html/T_PZone_Xrm_Metadata_WebResource.htm">
-        <HelpTOCNode Title="Metadata.WebResource Constructor " Url="html/M_PZone_Xrm_Metadata_WebResource__ctor.htm" />
-        <HelpTOCNode Title="WebResource Methods" Url="html/Methods_T_PZone_Xrm_Metadata_WebResource.htm" />
-        <HelpTOCNode Id="66d3f6df-9711-472d-b5f9-cf0d3981f7bf" Title="WebResource Fields" Url="html/Fields_T_PZone_Xrm_Metadata_WebResource.htm">
-          <HelpTOCNode Title="Content Field" Url="html/F_PZone_Xrm_Metadata_WebResource_Content.htm" />
-          <HelpTOCNode Title="LogicalName Field" Url="html/F_PZone_Xrm_Metadata_WebResource_LogicalName.htm" />
-          <HelpTOCNode Title="Name Field" Url="html/F_PZone_Xrm_Metadata_WebResource_Name.htm" />
-        </HelpTOCNode>
-      </HelpTOCNode>
-      <HelpTOCNode Id="548af890-e9e6-4a5a-a7f9-57a1d21adbd5" Title="Metadata.Workflow Class" Url="html/T_PZone_Xrm_Metadata_Workflow.htm">
-        <HelpTOCNode Title="Metadata.Workflow Constructor " Url="html/M_PZone_Xrm_Metadata_Workflow__ctor.htm" />
-        <HelpTOCNode Title="Workflow Methods" Url="html/Methods_T_PZone_Xrm_Metadata_Workflow.htm" />
-        <HelpTOCNode Id="11b11a2a-8816-4390-968a-3907887acdc0" Title="Workflow Fields" Url="html/Fields_T_PZone_Xrm_Metadata_Workflow.htm">
-          <HelpTOCNode Title="LogicalName Field" Url="html/F_PZone_Xrm_Metadata_Workflow_LogicalName.htm" />
-          <HelpTOCNode Title="Name Field" Url="html/F_PZone_Xrm_Metadata_Workflow_Name.htm" />
-          <HelpTOCNode Title="StateCode Field" Url="html/F_PZone_Xrm_Metadata_Workflow_StateCode.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
     </HelpTOCNode>
