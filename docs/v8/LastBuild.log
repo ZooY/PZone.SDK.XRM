@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<shfbBuild product="Sandcastle Help File Builder and Tools" version="2018.7.8.0" projectFile="C:\Projects\PZone\CRM\PZone SDK XRM\PZone SDK XRM.shfbproj" started="03.08.2018 9:11:53">
+<shfbBuild product="Sandcastle Help File Builder and Tools" version="2018.7.8.0" projectFile="C:\Projects\PZone\CRM\PZone SDK XRM\PZone SDK XRM.shfbproj" started="06.08.2018 12:35:59">
 <buildStep step="Initializing">
 Finding tools...
 The Sandcastle tools are located in &#39;C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\&#39;
@@ -7,15 +7,12 @@ Locating components in the following folder(s):
     C:\Projects\PZone\CRM\PZone SDK XRM
     C:\ProgramData\EWSoftware\Sandcastle Help File Builder\Components and Plug-Ins\
     C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\
-Using framework reflection data for &#39;.NET Framework 4.5&#39; located in &#39;C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Data\.NETFramework&#39;
+Using framework reflection data for &#39;.NET Framework 4.5.2&#39; located in &#39;C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Data\.NETFramework&#39;
 Using presentation style &#39;VS2013&#39; located in &#39;C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013&#39;
 Loading and initializing plug-ins...
 Lightweight Website Style Version 2018.7.8.0
 Copyright &#169; 2006-2018, Eric Woodruff, All Rights Reserved
 Portions Copyright &#169; 2014, Sam Harwell, All Rights Reserved
-</buildStep>
-<buildStep step="ClearWorkFolder">
-Clearing working folder...
 -------------------------------
 Clearing any prior web/markdown output...
 </buildStep>
@@ -31,16 +28,16 @@ Copying XML comments files
 <buildStep step="GenerateSharedContent">
 Generating shared content files (en-US, Английский (США))...
 <plugIn name="Lightweight Website Style" behavior="After" priority="1000">
-</plugIn>    Last step completed in 00:00:00,0249
+</plugIn>    Last step completed in 00:00:00,0194
 </buildStep>
 <buildStep step="GenerateApiFilter">
 Generating API filter for MRefBuilder...
-    Last step completed in 00:00:00,0066
+    Last step completed in 00:00:00,0053
 </buildStep>
 <buildStep step="GenerateReflectionInfo">
 Generating reflection information...
 [C:\Program Files (x86)\MSBuild\14.0\bin\amd64\MSBuild.exe - GenerateRefInfo.proj]
-‘Ў&#174;аЄ&#160; &#173;&#160;з&#160;в&#160; 03.08.2018 9:11:54.
+‘Ў&#174;аЄ&#160; &#173;&#160;з&#160;в&#160; 06.08.2018 12:36:00.
 Џа&#174;ҐЄв &quot;C:\Projects\PZone\CRM\PZone SDK XRM\docs\v8\Working\GenerateRefInfo.proj&quot; ў г&#167;&#171;Ґ 1 (жҐ&#171;ҐўлҐ &#174;ЎкҐЄвл Ї&#174; г&#172;&#174;&#171;з&#160;&#173;Ёо).
 PrepareForBuild:
   ‘&#174;&#167;&#164;&#160;&#173;ЁҐ Є&#160;в&#160;&#171;&#174;Ј&#160; &quot;obj\Debug\&quot;.
@@ -60,13 +57,13 @@ GenerateRefInfo:
 
 ‘Ў&#174;аЄ&#160; гбЇҐи&#173;&#174; &#167;&#160;ўҐаиҐ&#173;&#160;.
 
-‡&#160;ва&#160;зҐ&#173;&#173;&#174;Ґ ўаҐ&#172;п: 00:00:01.20
-    Last step completed in 00:00:01,5635
+‡&#160;ва&#160;зҐ&#173;&#173;&#174;Ґ ўаҐ&#172;п: 00:00:00.61
+    Last step completed in 00:00:00,7993
 </buildStep>
 <buildStep step="TransformReflectionInfo">
 Transforming reflection output...
 [C:\Program Files (x86)\MSBuild\14.0\bin\amd64\MSBuild.exe - TransformManifest.proj]
-‘Ў&#174;аЄ&#160; &#173;&#160;з&#160;в&#160; 03.08.2018 9:11:56.
+‘Ў&#174;аЄ&#160; &#173;&#160;з&#160;в&#160; 06.08.2018 12:36:01.
 Џа&#174;ҐЄв &quot;C:\Projects\PZone\CRM\PZone SDK XRM\docs\v8\Working\TransformManifest.proj&quot; ў г&#167;&#171;Ґ 1 (жҐ&#171;ҐўлҐ &#174;ЎкҐЄвл Ї&#174; г&#172;&#174;&#171;з&#160;&#173;Ёо).
 TransformManifest:
   XslTransform (v2018.7.8.0)
@@ -91,12 +88,12 @@ TransformManifest:
 
 ‘Ў&#174;аЄ&#160; гбЇҐи&#173;&#174; &#167;&#160;ўҐаиҐ&#173;&#160;.
 
-‡&#160;ва&#160;зҐ&#173;&#173;&#174;Ґ ўаҐ&#172;п: 00:00:00.76
-    Last step completed in 00:00:00,9470
+‡&#160;ва&#160;зҐ&#173;&#173;&#174;Ґ ўаҐ&#172;п: 00:00:00.49
+    Last step completed in 00:00:00,6596
 </buildStep>
 <buildStep step="GenerateNamespaceSummaries">
 Generating namespace summary information...
-    Last step completed in 00:00:00,0183
+    Last step completed in 00:00:00,0136
 </buildStep>
 <buildStep step="CopyAdditionalContent">
 Copying additional content files...
@@ -105,12 +102,12 @@ No additional content to copy
 </buildStep>
 <buildStep step="MergeTablesOfContents">
 Merging conceptual and additional tables of contents...
-    Last step completed in 00:00:00,0005
+    Last step completed in 00:00:00,0000
 </buildStep>
 <buildStep step="GenerateIntermediateTableOfContents">
 Generating intermediate table of contents file...
 [C:\Program Files (x86)\MSBuild\14.0\bin\amd64\MSBuild.exe - GenerateIntermediateTOC.proj]
-‘Ў&#174;аЄ&#160; &#173;&#160;з&#160;в&#160; 03.08.2018 9:11:57.
+‘Ў&#174;аЄ&#160; &#173;&#160;з&#160;в&#160; 06.08.2018 12:36:01.
 Џа&#174;ҐЄв &quot;C:\Projects\PZone\CRM\PZone SDK XRM\docs\v8\Working\GenerateIntermediateTOC.proj&quot; ў г&#167;&#171;Ґ 1 (жҐ&#171;ҐўлҐ &#174;ЎкҐЄвл Ї&#174; г&#172;&#174;&#171;з&#160;&#173;Ёо).
 GenerateIntermediateTOC:
   XslTransform (v2018.7.8.0)
@@ -121,14 +118,14 @@ GenerateIntermediateTOC:
 
 ‘Ў&#174;аЄ&#160; гбЇҐи&#173;&#174; &#167;&#160;ўҐаиҐ&#173;&#160;.
 
-‡&#160;ва&#160;зҐ&#173;&#173;&#174;Ґ ўаҐ&#172;п: 00:00:00.15
+‡&#160;ва&#160;зҐ&#173;&#173;&#174;Ґ ўаҐ&#172;п: 00:00:00.13
 Generating conceptual content intermediate TOC file...
-    Last step completed in 00:00:00,3833
+    Last step completed in 00:00:00,3395
 </buildStep>
 <buildStep step="CreateBuildAssemblerConfigs">
 Creating Sandcastle configuration files...
     sandcastle.config
-    Last step completed in 00:00:00,2066
+    Last step completed in 00:00:00,1393
 </buildStep>
 <buildStep step="MergeCustomConfigs">
 Merging custom build component configurations
@@ -136,34 +133,32 @@ C:\Projects\PZone\CRM\PZone SDK XRM\docs\v8\Working\sandcastle.config
   Updating reference topic configurations.
     Replacing default configuration for &#39;Code Block Component&#39; with the custom configuration
   No conceptual content.  Removing conceptual content components.
-    Last step completed in 00:00:00,0142
+    Last step completed in 00:00:00,0108
 </buildStep>
 <buildStep step="BuildTopics">
 Building help topics...
 [C:\Program Files (x86)\MSBuild\14.0\bin\amd64\MSBuild.exe - BuildTopics.proj]
-‘Ў&#174;аЄ&#160; &#173;&#160;з&#160;в&#160; 03.08.2018 9:11:58.
+‘Ў&#174;аЄ&#160; &#173;&#160;з&#160;в&#160; 06.08.2018 12:36:02.
 Џа&#174;ҐЄв &quot;C:\Projects\PZone\CRM\PZone SDK XRM\docs\v8\Working\BuildTopics.proj&quot; ў г&#167;&#171;Ґ 1 (жҐ&#171;ҐўлҐ &#174;ЎкҐЄвл Ї&#174; г&#172;&#174;&#171;з&#160;&#173;Ёо).
 BuildTopics:
   BuildAssembler (v2018.7.8.0)
   Copyright c 2006-2018, Microsoft Corporation, All Rights Reserved.
   Portions Copyright c 2006-2018, Eric Woodruff, All Rights Reserved.
   Loading configuration...
-  ResolveReferenceLinksComponent: The MSDN content ID cache &#39;C:\Users\kopaev\AppData\Local\EWSoftware\Sandcastle Help File Builder\Cache\MsdnContentId.cache&#39; does not exist yet.  All IDs will be looked up in this build which will slow it down.
   Processing topics...
   Processed 15 topic(s)
   CopyFromIndexComponent: &quot;reflection&quot; in-memory cache entries used: 2 of 15.
   CopyFromIndexComponent: &quot;comments&quot; in-memory cache entries used: 2 of 30.
-  ResolveReferenceLinksComponent: 8 entries added to the MSDN content ID cache.  New cache size: 8 entries
 ‘Ў&#174;аЄ&#160; Їа&#174;ҐЄв&#160; &quot;C:\Projects\PZone\CRM\PZone SDK XRM\docs\v8\Working\BuildTopics.proj&quot; &#167;&#160;ўҐаиҐ&#173;&#160; (жҐ&#171;ҐўлҐ &#174;ЎкҐЄвл Ї&#174; г&#172;&#174;&#171;з&#160;&#173;Ёо).
 
 ‘Ў&#174;аЄ&#160; гбЇҐи&#173;&#174; &#167;&#160;ўҐаиҐ&#173;&#160;.
 
-‡&#160;ва&#160;зҐ&#173;&#173;&#174;Ґ ўаҐ&#172;п: 00:00:12.23
-    Last step completed in 00:00:12,5163
+‡&#160;ва&#160;зҐ&#173;&#173;&#174;Ґ ўаҐ&#172;п: 00:00:06.60
+    Last step completed in 00:00:06,8411
 </buildStep>
 <buildStep step="CombiningIntermediateTocFiles">
 Combining conceptual and API intermediate TOC files...
-    Last step completed in 00:00:00,0020
+    Last step completed in 00:00:00,0010
 </buildStep>
 <buildStep step="ExtractingHtmlInfo">
 Extracting HTML info for HTML Help 1 and/or website...
@@ -179,7 +174,7 @@ Processed 15 HTML files
 Sorting keywords and generating See Also indices
 Saving website keyword index to C:\Projects\PZone\CRM\PZone SDK XRM\docs\v8\Working\WebKI.xml
 Saving website table of contents to C:\Projects\PZone\CRM\PZone SDK XRM\docs\v8\Working\WebTOC.xml
-    Last step completed in 00:00:00,3957
+    Last step completed in 00:00:00,2734
 </buildStep>
 <buildStep step="CopyStandardHelpContent">
 Copying standard help content...
@@ -261,32 +256,32 @@ C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyle
 C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\scripts\branding-Website.js -&gt; C:\Projects\PZone\CRM\PZone SDK XRM\docs\v8\Working\Output\Website\scripts\branding-Website.js
 C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\scripts\clipboard.min.js -&gt; C:\Projects\PZone\CRM\PZone SDK XRM\docs\v8\Working\Output\Website\scripts\clipboard.min.js
 C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\scripts\jquery-1.11.0.min.js -&gt; C:\Projects\PZone\CRM\PZone SDK XRM\docs\v8\Working\Output\Website\scripts\jquery-1.11.0.min.js
-    Last step completed in 00:00:00,1444
+    Last step completed in 00:00:00,0665
 </buildStep>
 <buildStep step="GenerateHelpFormatTableOfContents">
 Generating website table of contents file...
-    Last step completed in 00:00:00,0010
+    Last step completed in 00:00:00,0011
 </buildStep>
 <buildStep step="GenerateFullTextIndex">
 Generating full-text index for the website...
 
 <plugIn name="Lightweight Website Style" behavior="After" priority="1000">
 Adding lightweight search and TOC elements to each topic...
-</plugIn>    Last step completed in 00:00:00,1148
+</plugIn>    Last step completed in 00:00:00,0910
 </buildStep>
 <buildStep step="CopyingWebsiteFiles">
 Copying website files to output folder...
 
-Copied 142 files for the website content
-    Last step completed in 00:00:00,0992
+Copied 143 files for the website content
+    Last step completed in 00:00:00,0898
 </buildStep>
 <buildStep step="CleanIntermediates">
 Removing intermediate files...
-    Last step completed in 00:00:00,0250
+    Last step completed in 00:00:00,0229
 </buildStep>
 <buildStep step="Completed">
 
-Build completed successfully at 03.08.2018 9:12:11.  Total time: 00:00:17,6693
+Build completed successfully at 06.08.2018 12:36:09.  Total time: 00:00:10,4149
 
 </buildStep>
 </shfbBuild>

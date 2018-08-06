@@ -1,5 +1,4 @@
 ﻿using Microsoft.Xrm.Sdk;
-using Newtonsoft.Json;
 
 
 namespace PZone.Xrm
@@ -28,17 +27,16 @@ namespace PZone.Xrm
         }
 
 
-
         /// <summary>
-        /// Клонирование объекта <see cref="Entity"/>.
+        /// Копия сущности без значений полей.
         /// </summary>
-        /// <param name="entity">Исходная сущность.</param>
+        /// <param name="entity">Копируемая сущность.</param>
         /// <returns>
-        /// Метод возвращает новый объект типа <see cref="Entity"/>, полученный путем клонирования исходного объекта.
+        /// Метод возвращет копию сущности, у которой указаны только тип и идентификатор.
         /// </returns>
-        public static Entity Clone(this Entity entity)
+        public static Entity ToCleannedEntity(this Entity entity)
         {
-            return ReferenceEquals(entity, null) ? null : JsonConvert.DeserializeObject<Entity>(JsonConvert.SerializeObject(entity));
+            return new Entity(entity.LogicalName, entity.Id);
         }
     }
 }

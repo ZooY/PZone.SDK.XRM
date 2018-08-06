@@ -1,12 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <HelpKI>
-  <HelpKINode Title="Clone method" Url="html/M_PZone_Xrm_EntityExtensions_Clone.htm" />
   <HelpKINode Title="EntityExtensions class">
     <HelpKINode Title="EntityExtensions Class" Url="html/T_PZone_Xrm_EntityExtensions.htm" />
     <HelpKINode Title="methods" Url="html/Methods_T_PZone_Xrm_EntityExtensions.htm" />
   </HelpKINode>
-  <HelpKINode Title="EntityExtensions.Clone method" Url="html/M_PZone_Xrm_EntityExtensions_Clone.htm" />
   <HelpKINode Title="EntityExtensions.Extend method" Url="html/M_PZone_Xrm_EntityExtensions_Extend.htm" />
+  <HelpKINode Title="EntityExtensions.ToCleannedEntity method" Url="html/M_PZone_Xrm_EntityExtensions_ToCleannedEntity.htm" />
   <HelpKINode Title="Execute(Of TResponse) method" Url="html/M_PZone_Xrm_IOrganizationServiceExtensions_Execute__1.htm" />
   <HelpKINode Title="Execute&lt;TResponse&gt; method" Url="html/M_PZone_Xrm_IOrganizationServiceExtensions_Execute__1.htm" />
   <HelpKINode Title="Extend method" Url="html/M_PZone_Xrm_EntityExtensions_Extend.htm" />
@@ -27,5 +26,6 @@
   <HelpKINode Title="PZone.Xrm.IOrganizationServiceExtensions class" Url="html/T_PZone_Xrm_IOrganizationServiceExtensions.htm" />
   <HelpKINode Title="PZone.Xrm.ITracingServiceExtensions class" Url="html/T_PZone_Xrm_ITracingServiceExtensions.htm" />
   <HelpKINode Title="RetrieveMultiple method" Url="html/M_PZone_Xrm_IOrganizationServiceExtensions_RetrieveMultiple.htm" />
+  <HelpKINode Title="ToCleannedEntity method" Url="html/M_PZone_Xrm_EntityExtensions_ToCleannedEntity.htm" />
   <HelpKINode Title="Trace method" Url="html/Overload_PZone_Xrm_ITracingServiceExtensions_Trace.htm" />
 </HelpKI>
