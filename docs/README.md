@@ -1,6 +1,3 @@
-# PZone SDK XRM
-Common assembly for Microsoft Dynamics CRM development.
-
 ## Documentation
 <ul>
 <li><a href="https://zooy.github.io/PZone.SDK.XRM/v8/index.html"><b>v8</b> for Dynamics CRM 2016 / Dynamics 365</a></li>
