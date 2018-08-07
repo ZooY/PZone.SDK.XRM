@@ -1,23 +1,24 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <HelpTOC>
 
-  <HelpTOCNode Id="92a3355c-cef8-455e-aea8-63b33c404601" Title="Namespaces" Url="html/R_Project_Documentation.htm">
-    <HelpTOCNode Id="95144928-172d-4ec2-b29c-c9a8d873de2f" Title="PZone.Xrm" Url="html/N_PZone_Xrm.htm">
-      <HelpTOCNode Id="b7d09b36-94d5-49da-9279-dd11c98607e0" Title="EntityExtensions Class" Url="html/T_PZone_Xrm_EntityExtensions.htm">
-        <HelpTOCNode Id="68224548-bcf2-411d-8fd9-4c088a0ed7c8" Title="EntityExtensions Methods" Url="html/Methods_T_PZone_Xrm_EntityExtensions.htm">
+  <HelpTOCNode Id="b4ad8e8b-73dc-4355-ac07-b686d7fa0a24" Title="Namespaces" Url="html/R_Project_Documentation.htm">
+    <HelpTOCNode Id="d22bfc04-9375-41e2-bfd1-9f07523191a2" Title="PZone.Xrm" Url="html/N_PZone_Xrm.htm">
+      <HelpTOCNode Id="14146016-7b9f-4682-a917-49752504c418" Title="EntityExtensions Class" Url="html/T_PZone_Xrm_EntityExtensions.htm">
+        <HelpTOCNode Id="f6bc2926-144a-447d-9825-6e6626be403a" Title="EntityExtensions Methods" Url="html/Methods_T_PZone_Xrm_EntityExtensions.htm">
           <HelpTOCNode Title="Extend Method " Url="html/M_PZone_Xrm_EntityExtensions_Extend.htm" />
           <HelpTOCNode Title="ToCleannedEntity Method " Url="html/M_PZone_Xrm_EntityExtensions_ToCleannedEntity.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="f32edeaf-5702-4253-9ff3-a414e1ea3fb2" Title="IOrganizationServiceExtensions Class" Url="html/T_PZone_Xrm_IOrganizationServiceExtensions.htm">
-        <HelpTOCNode Id="f5fd760d-7186-46bc-bc94-66c0d9f4e2e0" Title="IOrganizationServiceExtensions Methods" Url="html/Methods_T_PZone_Xrm_IOrganizationServiceExtensions.htm">
+      <HelpTOCNode Id="7fb53fc6-dfe4-4dc1-8d6b-1c00f86d241a" Title="IOrganizationServiceExtensions Class" Url="html/T_PZone_Xrm_IOrganizationServiceExtensions.htm">
+        <HelpTOCNode Id="1ef77413-8911-470b-8952-c69b57e47d34" Title="IOrganizationServiceExtensions Methods" Url="html/Methods_T_PZone_Xrm_IOrganizationServiceExtensions.htm">
           <HelpTOCNode Title="Execute(TResponse) Method " Url="html/M_PZone_Xrm_IOrganizationServiceExtensions_Execute__1.htm" />
+          <HelpTOCNode Title="Retrieve Method " Url="html/M_PZone_Xrm_IOrganizationServiceExtensions_Retrieve.htm" />
           <HelpTOCNode Title="RetrieveMultiple Method " Url="html/M_PZone_Xrm_IOrganizationServiceExtensions_RetrieveMultiple.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="1740eca3-1d51-43d4-bd56-d2b2d58f1b04" Title="ITracingServiceExtensions Class" Url="html/T_PZone_Xrm_ITracingServiceExtensions.htm">
-        <HelpTOCNode Id="fd9807fe-0eb1-4357-b425-2c912700363f" Title="ITracingServiceExtensions Methods" Url="html/Methods_T_PZone_Xrm_ITracingServiceExtensions.htm">
-          <HelpTOCNode Id="4b38757b-56ef-4e61-962f-f5eee65dfdad" Title="Trace Method " Url="html/Overload_PZone_Xrm_ITracingServiceExtensions_Trace.htm">
+      <HelpTOCNode Id="382bfa0b-94a1-42f5-8218-095845c46735" Title="ITracingServiceExtensions Class" Url="html/T_PZone_Xrm_ITracingServiceExtensions.htm">
+        <HelpTOCNode Id="d1c40a44-f8c2-482a-9357-c28025ee5eea" Title="ITracingServiceExtensions Methods" Url="html/Methods_T_PZone_Xrm_ITracingServiceExtensions.htm">
+          <HelpTOCNode Id="9a9c1cb4-62f0-41bc-9e26-a3e4ffab16f4" Title="Trace Method " Url="html/Overload_PZone_Xrm_ITracingServiceExtensions_Trace.htm">
             <HelpTOCNode Title="Trace Method (ITracingService, Exception)" Url="html/M_PZone_Xrm_ITracingServiceExtensions_Trace.htm" />
             <HelpTOCNode Title="Trace Method (ITracingService, Object)" Url="html/M_PZone_Xrm_ITracingServiceExtensions_Trace_1.htm" />
           </HelpTOCNode>

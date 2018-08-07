@@ -36,7 +36,8 @@ namespace PZone.Xrm
                 ReferenceLoopHandling = ReferenceLoopHandling.Ignore,
                 DateFormatHandling = DateFormatHandling.IsoDateFormat,
                 NullValueHandling = NullValueHandling.Ignore,
-                Formatting = Formatting.Indented
+                Formatting = Formatting.Indented,
+                Error = (s, e) => { e.ErrorContext.Handled = true; }
             }));
         }
     }

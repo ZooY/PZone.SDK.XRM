@@ -10,6 +10,27 @@ namespace PZone.Xrm
     // ReSharper disable once InconsistentNaming
     public static class IOrganizationServiceExtensions
     {
+        #region Retrieve
+
+
+        /// <summary>
+        /// Получение записи по ссылке на нее.
+        /// </summary>
+        /// <param name="service">Экземпляр сервиса CRM.</param>
+        /// <param name="entityRef">Ссылка на сущность.</param>
+        /// <param name="columnSet">Набор атрибутов сущности.</param>
+        /// <returns>
+        /// Метод возвращает одну запись по ссылке на нее.
+        /// </returns>
+        public static Entity Retrieve(this IOrganizationService service, EntityReference entityRef, ColumnSet columnSet)
+        {
+            return service.Retrieve(entityRef.LogicalName, entityRef.Id, columnSet);
+        }
+
+
+        #endregion
+
+
         #region RetrieveMultiple
 
 

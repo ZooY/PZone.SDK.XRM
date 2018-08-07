@@ -15,6 +15,7 @@
   </HelpKINode>
   <HelpKINode Title="IOrganizationServiceExtensions.Execute(Of TResponse) method" Url="html/M_PZone_Xrm_IOrganizationServiceExtensions_Execute__1.htm" />
   <HelpKINode Title="IOrganizationServiceExtensions.Execute&lt;TResponse&gt; method" Url="html/M_PZone_Xrm_IOrganizationServiceExtensions_Execute__1.htm" />
+  <HelpKINode Title="IOrganizationServiceExtensions.Retrieve method" Url="html/M_PZone_Xrm_IOrganizationServiceExtensions_Retrieve.htm" />
   <HelpKINode Title="IOrganizationServiceExtensions.RetrieveMultiple method" Url="html/M_PZone_Xrm_IOrganizationServiceExtensions_RetrieveMultiple.htm" />
   <HelpKINode Title="ITracingServiceExtensions class">
     <HelpKINode Title="ITracingServiceExtensions Class" Url="html/T_PZone_Xrm_ITracingServiceExtensions.htm" />
@@ -25,6 +26,7 @@
   <HelpKINode Title="PZone.Xrm.EntityExtensions class" Url="html/T_PZone_Xrm_EntityExtensions.htm" />
   <HelpKINode Title="PZone.Xrm.IOrganizationServiceExtensions class" Url="html/T_PZone_Xrm_IOrganizationServiceExtensions.htm" />
   <HelpKINode Title="PZone.Xrm.ITracingServiceExtensions class" Url="html/T_PZone_Xrm_ITracingServiceExtensions.htm" />
+  <HelpKINode Title="Retrieve method" Url="html/M_PZone_Xrm_IOrganizationServiceExtensions_Retrieve.htm" />
   <HelpKINode Title="RetrieveMultiple method" Url="html/M_PZone_Xrm_IOrganizationServiceExtensions_RetrieveMultiple.htm" />
   <HelpKINode Title="ToCleannedEntity method" Url="html/M_PZone_Xrm_EntityExtensions_ToCleannedEntity.htm" />
   <HelpKINode Title="Trace method" Url="html/Overload_PZone_Xrm_ITracingServiceExtensions_Trace.htm" />
