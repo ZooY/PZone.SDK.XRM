@@ -4,7 +4,24 @@
 namespace PZone.Xrm
 {
     /// <summary>
-    /// Расширение функционала класса <see cref="Entity"/>.
+    /// Расширение функциональности класса <see cref="EntityReference"/>.
+    /// </summary>
+    public static class EntityReferenceExtensions
+    {
+        /// <summary>
+        /// Получение сущности из ссылки.
+        /// </summary>
+        /// <param name="entityRef">Ссылка на сущность.</param>
+        /// <returns>Метод возвращает сущность с именем и идентификатором, соответствующим ссылке.</returns>
+        public static Entity ToEntity(this EntityReference entityRef)
+        {
+            return new Entity(entityRef.LogicalName, entityRef.Id);
+        }
+    }
+
+
+    /// <summary>
+    /// Расширение функциональности класса <see cref="Entity"/>.
     /// </summary>
     // ReSharper disable once CheckNamespace
     public static class EntityExtensions
@@ -34,7 +51,7 @@ namespace PZone.Xrm
         /// <returns>
         /// Метод возвращет копию сущности, у которой указаны только тип и идентификатор.
         /// </returns>
-        public static Entity ToCleannedEntity(this Entity entity)
+        public static Entity ToCleanEntity(this Entity entity)
         {
             return new Entity(entity.LogicalName, entity.Id);
         }

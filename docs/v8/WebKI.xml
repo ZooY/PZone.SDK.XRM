@@ -5,7 +5,12 @@
     <HelpKINode Title="methods" Url="html/Methods_T_PZone_Xrm_EntityExtensions.htm" />
   </HelpKINode>
   <HelpKINode Title="EntityExtensions.Extend method" Url="html/M_PZone_Xrm_EntityExtensions_Extend.htm" />
-  <HelpKINode Title="EntityExtensions.ToCleannedEntity method" Url="html/M_PZone_Xrm_EntityExtensions_ToCleannedEntity.htm" />
+  <HelpKINode Title="EntityExtensions.ToCleanEntity method" Url="html/M_PZone_Xrm_EntityExtensions_ToCleanEntity.htm" />
+  <HelpKINode Title="EntityReferenceExtensions class">
+    <HelpKINode Title="EntityReferenceExtensions Class" Url="html/T_PZone_Xrm_EntityReferenceExtensions.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_PZone_Xrm_EntityReferenceExtensions.htm" />
+  </HelpKINode>
+  <HelpKINode Title="EntityReferenceExtensions.ToEntity method" Url="html/M_PZone_Xrm_EntityReferenceExtensions_ToEntity.htm" />
   <HelpKINode Title="Execute(Of TResponse) method" Url="html/M_PZone_Xrm_IOrganizationServiceExtensions_Execute__1.htm" />
   <HelpKINode Title="Execute&lt;TResponse&gt; method" Url="html/M_PZone_Xrm_IOrganizationServiceExtensions_Execute__1.htm" />
   <HelpKINode Title="Extend method" Url="html/M_PZone_Xrm_EntityExtensions_Extend.htm" />
@@ -24,10 +29,12 @@
   <HelpKINode Title="ITracingServiceExtensions.Trace method" Url="html/Overload_PZone_Xrm_ITracingServiceExtensions_Trace.htm" />
   <HelpKINode Title="PZone.Xrm namespace" Url="html/N_PZone_Xrm.htm" />
   <HelpKINode Title="PZone.Xrm.EntityExtensions class" Url="html/T_PZone_Xrm_EntityExtensions.htm" />
+  <HelpKINode Title="PZone.Xrm.EntityReferenceExtensions class" Url="html/T_PZone_Xrm_EntityReferenceExtensions.htm" />
   <HelpKINode Title="PZone.Xrm.IOrganizationServiceExtensions class" Url="html/T_PZone_Xrm_IOrganizationServiceExtensions.htm" />
   <HelpKINode Title="PZone.Xrm.ITracingServiceExtensions class" Url="html/T_PZone_Xrm_ITracingServiceExtensions.htm" />
   <HelpKINode Title="Retrieve method" Url="html/M_PZone_Xrm_IOrganizationServiceExtensions_Retrieve.htm" />
   <HelpKINode Title="RetrieveMultiple method" Url="html/M_PZone_Xrm_IOrganizationServiceExtensions_RetrieveMultiple.htm" />
-  <HelpKINode Title="ToCleannedEntity method" Url="html/M_PZone_Xrm_EntityExtensions_ToCleannedEntity.htm" />
+  <HelpKINode Title="ToCleanEntity method" Url="html/M_PZone_Xrm_EntityExtensions_ToCleanEntity.htm" />
+  <HelpKINode Title="ToEntity method" Url="html/M_PZone_Xrm_EntityReferenceExtensions_ToEntity.htm" />
   <HelpKINode Title="Trace method" Url="html/Overload_PZone_Xrm_ITracingServiceExtensions_Trace.htm" />
 </HelpKI>
