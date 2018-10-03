@@ -39,6 +39,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="EntityExtensions.cs" />
+    <Compile Include="IOrganizationServiceMetadataExtensions.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="IOrganizationServiceExtensions.cs" />
     <Compile Include="ITracingServiceExtensions.cs" />

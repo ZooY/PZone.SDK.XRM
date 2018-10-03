@@ -22,6 +22,11 @@
   <HelpKINode Title="IOrganizationServiceExtensions.Execute&lt;TResponse&gt; method" Url="html/M_PZone_Xrm_IOrganizationServiceExtensions_Execute__1.htm" />
   <HelpKINode Title="IOrganizationServiceExtensions.Retrieve method" Url="html/M_PZone_Xrm_IOrganizationServiceExtensions_Retrieve.htm" />
   <HelpKINode Title="IOrganizationServiceExtensions.RetrieveMultiple method" Url="html/M_PZone_Xrm_IOrganizationServiceExtensions_RetrieveMultiple.htm" />
+  <HelpKINode Title="IOrganizationServiceMetadataExtensions class">
+    <HelpKINode Title="IOrganizationServiceMetadataExtensions Class" Url="html/T_PZone_Xrm_IOrganizationServiceMetadataExtensions.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_PZone_Xrm_IOrganizationServiceMetadataExtensions.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IOrganizationServiceMetadataExtensions.RetrievePicklistItemLabel method" Url="html/M_PZone_Xrm_IOrganizationServiceMetadataExtensions_RetrievePicklistItemLabel.htm" />
   <HelpKINode Title="ITracingServiceExtensions class">
     <HelpKINode Title="ITracingServiceExtensions Class" Url="html/T_PZone_Xrm_ITracingServiceExtensions.htm" />
     <HelpKINode Title="methods" Url="html/Methods_T_PZone_Xrm_ITracingServiceExtensions.htm" />
@@ -31,9 +36,11 @@
   <HelpKINode Title="PZone.Xrm.EntityExtensions class" Url="html/T_PZone_Xrm_EntityExtensions.htm" />
   <HelpKINode Title="PZone.Xrm.EntityReferenceExtensions class" Url="html/T_PZone_Xrm_EntityReferenceExtensions.htm" />
   <HelpKINode Title="PZone.Xrm.IOrganizationServiceExtensions class" Url="html/T_PZone_Xrm_IOrganizationServiceExtensions.htm" />
+  <HelpKINode Title="PZone.Xrm.IOrganizationServiceMetadataExtensions class" Url="html/T_PZone_Xrm_IOrganizationServiceMetadataExtensions.htm" />
   <HelpKINode Title="PZone.Xrm.ITracingServiceExtensions class" Url="html/T_PZone_Xrm_ITracingServiceExtensions.htm" />
   <HelpKINode Title="Retrieve method" Url="html/M_PZone_Xrm_IOrganizationServiceExtensions_Retrieve.htm" />
   <HelpKINode Title="RetrieveMultiple method" Url="html/M_PZone_Xrm_IOrganizationServiceExtensions_RetrieveMultiple.htm" />
+  <HelpKINode Title="RetrievePicklistItemLabel method" Url="html/M_PZone_Xrm_IOrganizationServiceMetadataExtensions_RetrievePicklistItemLabel.htm" />
   <HelpKINode Title="ToCleanEntity method" Url="html/M_PZone_Xrm_EntityExtensions_ToCleanEntity.htm" />
   <HelpKINode Title="ToEntity method" Url="html/M_PZone_Xrm_EntityReferenceExtensions_ToEntity.htm" />
   <HelpKINode Title="Trace method" Url="html/Overload_PZone_Xrm_ITracingServiceExtensions_Trace.htm" />
