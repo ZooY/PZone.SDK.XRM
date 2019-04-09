@@ -4,23 +4,6 @@
 namespace PZone.Xrm
 {
     /// <summary>
-    /// Расширение функциональности класса <see cref="EntityReference"/>.
-    /// </summary>
-    public static class EntityReferenceExtensions
-    {
-        /// <summary>
-        /// Получение сущности из ссылки.
-        /// </summary>
-        /// <param name="entityRef">Ссылка на сущность.</param>
-        /// <returns>Метод возвращает сущность с именем и идентификатором, соответствующим ссылке.</returns>
-        public static Entity ToEntity(this EntityReference entityRef)
-        {
-            return new Entity(entityRef.LogicalName, entityRef.Id);
-        }
-    }
-
-
-    /// <summary>
     /// Расширение функциональности класса <see cref="Entity"/>.
     /// </summary>
     // ReSharper disable once CheckNamespace
@@ -54,6 +37,22 @@ namespace PZone.Xrm
         public static Entity ToCleanEntity(this Entity entity)
         {
             return new Entity(entity.LogicalName, entity.Id);
+        }
+
+
+        /// <summary>
+        /// Получение значения атрибута связанной записи.
+        /// </summary>
+        /// <typeparam name="T">Тип атриубта.</typeparam>
+        /// <param name="entity">Сущность.</param>
+        /// <param name="attributeName">Имя атрибута.</param>
+        /// <returns>
+        /// Метод возвращает значение атрибута.
+        /// </returns>
+        public static T GetAliasedAttributeValue<T>(this Entity entity, string attributeName)
+        {
+            var value = entity.GetAttributeValue<AliasedValue>(attributeName)?.Value;
+            return value == null ? default(T) : (T)value;
         }
     }
 }
